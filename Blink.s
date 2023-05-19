@@ -1,13 +1,3 @@
-/*
- * File:   This file is the first example of the course.     
-	    You can use it as a template if necessary  
-	    The progam makes blink a light emiter diode (LED) at 1Hz
-     
- * Author: René Jiménez
- *
- * Created on February, 2019
- */
-
     .include "p30F4013.inc"
 ;---------------------------------------------------------------------------    
     
