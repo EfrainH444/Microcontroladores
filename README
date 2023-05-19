@@ -1,0 +1,10 @@
+El archivo Blink.s contiene la siguiente serie de animaciones para un arreglo de LED's 
+
+- KNIGHT_RIDER
+- BLINK_200ms
+- BLINK_500ms
+- ROTATE_RIGHT
+- ROTATE_LEFT
+- SHIFT_FROM_CENTER
+
+Para el microcontrolador DSPIC30F4013
